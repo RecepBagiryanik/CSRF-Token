@@ -13,3 +13,6 @@ Step 3
 
 Steps Done. Feel happy while using it
 
+How I use it csrf() function?
+
+example : csrf(submitbuttonname, inputname);
