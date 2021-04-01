@@ -2,7 +2,7 @@
 include "csrf.php";
 ?>
 <?php 
-//example
+//Example
 if (isset($_POST["send"])) {
 	if (csrf("send","csrftoken") == 1) {
 		echo "CSRF Token is correct";
